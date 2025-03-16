@@ -3,8 +3,6 @@
 ## 안녕하세요! 사용자 친화적인 개발자가 되고싶은 김충만입니다.🧑‍💻
 
 
-### 🛠️Skills
-
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
