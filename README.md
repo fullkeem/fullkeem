@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shadows+Into+Light&size=40&letterSpacing=1px&duration=3000&pause=2000&repeat=false&width=800&height=50&lines=Hello%2C+I'm+fullkeem" alt="Typing SVG" /></a>
 <br />
-## 안녕하세요! 사용자 친화적인 개발을 추구하는 김충만입니다.🧑‍💻
+## 안녕하세요! 숲을 보며 나무를 심는 김충만입니다.🧑‍💻
 
 
 <div>
